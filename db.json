@@ -20,14 +20,14 @@
       "stack": ["React Native", "Redux", "Rails", "styled-components", "Postgresql", "Google Vision Api", "victory library", "Expo-Camera"],
       "images" : [
           "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256730/Thread_homescreen_vg3jje.png",
-          "/the_thread/thread_camera.png",
-          "/the_thread/thread_result_one.png",
-          "/the_thread/thread_closet.png",
-          "/the_thread/thread_profile_two.png",
-          "/the_thread/thread_upload.png",
-          "/the_thread/thread_scan_screen.png",
-          "/the_thread/thread_result_two.png",
-          "/the_thread/thread_profile_one.png"          
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256730/thread_camera_pjyzko.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256739/thread_result_one_jwwdzo.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256729/thread_closet_e2dxwq.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256740/thread_profile_two_ivwm5d.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256740/thread_upload_kphz3m.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256740/thread_scan_screen_pqzee7.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256740/thread_result_two_gjdqc9.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256740/thread_profile_one_ghxwvv.png"          
       ]
   },
   {
@@ -40,14 +40,14 @@
       "demo": "https://www.loom.com/share/2ffbf47626e7486992bf48231ef2224b",
       "stack": ["React", "Rails", "styled-components", "Postgresql", "active storage", "web speech api", "google translate api", "faker gem", "react-bootstrap"],
       "images" : [
-          "/viaggamo/viaggamo_home.png",
-          "/viaggamo/viaggamo_lang_menu.png",
-          "/viaggamo/viaggamo_game.png",
-          "/viaggamo/viaggamo_lesson_one.png",
-          "/viaggamo/viaggamo_lesson_two.png",
-          "/viaggamo/viaggamo_translator.png",
-          "/viaggamo/viaggamo_save_mess.png",
-          "/viaggamo/viaggamo_favs.png"
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256848/viaggamo_home_dstab7.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256848/viaggamo_lang_menu_qpg0px.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256848/viaggamo_game_qadytu.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256848/viaggamo_lesson_one_qwcmmm.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256848/viaggamo_lesson_two_wllk2l.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256856/viaggamo_translator_mujawx.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256855/viaggamo_save_mess_wvssxu.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256848/viaggamo_favs_alliic.png"
       ]
   },
   {
@@ -60,11 +60,11 @@
       "demo": "https://www.loom.com/share/b476c3a24fc84540a461f1610d0a5fbb",
       "stack": ["Javasript", "Rails", "Tailwind", "sqlite3"],
       "images": [
-          "/scribble/scribble_login.png",
-          "/scribble/scribble_main.png",
-          "/scribble/scribble_bg.png",
-          "/scribble/scribble_canvas.png",
-          "/scribble/scribble_create.png"
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256797/scribble_login_te7plr.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256802/scribble_main_z0wieg.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256798/scribble_bg_wvauns.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256797/scribble_canvas_jutuus.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256797/scribble_create_yngebp.png"
       ]
   }
 ]
