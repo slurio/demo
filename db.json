@@ -19,7 +19,7 @@
       "demo": "https://www.loom.com/share/efd8671db5d24d679f7e11427f34313a",
       "stack": ["React Native", "Redux", "Rails", "styled-components", "Postgresql", "Google Vision Api", "victory library", "Expo-Camera"],
       "images" : [
-          "/the_thread/thread_homescreen.png",
+          "https://res.cloudinary.com/dujumqbk7/image/upload/v1618256730/Thread_homescreen_vg3jje.png",
           "/the_thread/thread_camera.png",
           "/the_thread/thread_result_one.png",
           "/the_thread/thread_closet.png",
